@@ -1,0 +1,201 @@
+Order_Date,Product,Category,Quantity,Price_Per_Unit,Shipping_Fee,Total_Sales
+12/17/2024,Headphones,Electronics,6,149.62,48.55,946.27
+12/16/2024,Laptop,Electronics,16,203.15,38.78,3289.18
+12/5/2024,Lipstick,Beauty,11,162.08,38.19,1821.07
+12/18/2024,Dress,Clothing,6,443.55,3.06,2664.36
+12/2/2024,Fantasy,Books,10,123.24,38.29,1270.69
+12/11/2024,Fiction,Books,9,26.63,10.04,249.71
+12/23/2024,Jacket,Clothing,2,36.08,24.69,96.85
+12/13/2024,Toaster,Home & Kitchen,15,384.05,32.44,5793.19
+12/11/2024,Perfume,Beauty,16,131.87,28.13,2138.05
+12/25/2024,,Beauty,15,222.13,24.9,3356.85
+12/20/2024,Mascara,Beauty,17,270.6,44.33,4644.53
+12/15/2024,Headphones,Electronics,10,233.75,43.26,2380.76
+12/29/2024,Tablet,Electronics,,346.51,,6947.35
+12/2/2024,Tablet,Electronics,9,343.2,31.67,3120.47
+12/11/2024,Mixer,Home & Kitchen,16,154.7,30.44,2505.64
+12/27/2024,Dress,Clothing,13,390.77,34.52,5114.53
+12/30/2024,Lipstick,Beauty,18,228.37,23.52,4134.18
+12/14/2024,Headphones,Electronics,,88.99,12.24,1614.06
+12/28/2024,Lipstick,Beauty,16,410.74,28.91,6600.75
+12/17/2024,Non-Fiction,Books,10,404.84,24.18,4072.58
+12/13/2024,Laptop,Electronics,18,440.27,28.63,7953.49
+12/30/2024,Headphones,Electronics,4,224.78,48.78,947.9
+12/25/2024,Lipstick,Beauty,14,163.94,10.41,2305.57
+12/26/2024,Mascara,Beauty,5,5.83,30.39,59.54
+12/3/2024,Tablet,Electronics,7,161.75,15.27,1147.52
+12/8/2024,Headphones,Electronics,13,347.44,49,4565.72
+12/12/2024,Headphones,Electronics,9,215.08,45.15,1980.87
+12/30/2024,Fantasy,Books,20,200.6,19.12,4031.12
+12/26/2024,Mixer,Home & Kitchen,7,141.73,11.85,1003.96
+12/15/2024,Jacket,Clothing,16,351.33,45.7,5666.98
+12/24/2024,Laptop,Electronics,20,199.13,28.67,4011.27
+12/23/2024,Toaster,Home & Kitchen,19,23.77,46.93,498.56
+12/13/2024,Cookware,Home & Kitchen,19,44.1,31.26,869.16
+12/6/2024,Fiction,Books,7,48.95,13,355.65
+12/19/2024,Vacuum Cleaner,Home & Kitchen,13,120.28,49.13,1612.77
+12/8/2024,Laptop,Electronics,4,382.89,15.04,1546.6
+12/15/2024,Mixer,Home & Kitchen,12,190.17,5.72,2287.76
+12/28/2024,Tablet,Electronics,16,387.06,16.34,6209.3
+12/20/2024,Toaster,Home & Kitchen,2,172.97,30.35,376.29
+12/18/2024,Tablet,Electronics,20,225.5,27.6,4537.6
+12/17/2024,Smartphone,Electronics,5,215.59,35.76,1113.71
+12/10/2024,Biography,Books,16,360.87,29.66,5803.58
+12/5/2024,Fiction,Books,14,184.18,16.69,2595.21
+12/14/2024,Vacuum Cleaner,Home & Kitchen,2,95.47,34.81,225.75
+12/16/2024,Lipstick,Beauty,20,273.39,5.39,5473.19
+12/22/2024,Fantasy,Books,20,446.03,49.53,8970.13
+12/5/2024,Smartphone,Electronics,20,72.78,6.84,1462.44
+12/29/2024,Biography,Books,5,456.73,33.65,2317.3
+12/21/2024,Fiction,Books,8,261.1,28.47,2117.27
+12/7/2024,Non-Fiction,Books,14,435.29,33.6,6127.66
+12/10/2024,Toaster,Home & Kitchen,5,65.57,30.5,358.35
+12/15/2024,Fantasy,Books,15,382.4,45.42,5781.42
+12/18/2024,Fiction,Books,20,239.44,47.46,4836.26
+12/1/2024,Jacket,Clothing,3,409.6,43.34,1272.14
+12/6/2024,Headphones,Electronics,3,104.66,49.77,363.75
+12/15/2024,Jeans,Clothing,2,423.79,32.95,880.53
+12/31/2024,T-Shirt,Clothing,20,266.38,9.56,5337.16
+12/14/2024,Toaster,Home & Kitchen,16,217.93,10.79,3497.67
+12/2/2024,Headphones,Electronics,13,225.48,33.27,2964.51
+12/25/2024,Laptop,Electronics,16,483.22,31.79,7763.31
+12/19/2024,Non-Fiction,Books,2,162.06,9.78,333.9
+12/12/2024,Vacuum Cleaner,Home & Kitchen,20,27.73,10.29,564.89
+12/11/2024,Fiction,Books,10,463.17,43.1,4674.8
+12/14/2024,Jeans,Clothing,19,232.24,11.38,4423.94
+12/16/2024,T-Shirt,Clothing,8,336.22,26.94,2716.7
+12/31/2024,Fantasy,Books,20,246.45,7.9,4936.9
+12/17/2024,Non-Fiction,Books,20,188.02,42.5,3802.9
+12/14/2024,Perfume,Beauty,7,230.9,10.43,1626.73
+12/29/2024,Non-Fiction,Books,3,461.6,31.03,1415.83
+12/20/2024,Dress,Clothing,1,294.25,46.09,340.34
+12/31/2024,Biography,Books,12,300.59,9.59,3616.67
+12/3/2024,Tablet,Electronics,15,285.44,19.56,4301.16
+12/11/2024,Headphones,Electronics,12,69.99,27.21,867.09
+12/21/2024,Fantasy,Books,2,327.58,14.81,669.97
+12/31/2024,Foundation,Beauty,17,227.24,24.17,3887.25
+12/9/2024,Perfume,Beauty,20,365.67,26.7,7340.1
+12/10/2024,Perfume,Beauty,20,214.59,27.2,4319
+12/14/2024,Lipstick,Beauty,15,467.61,24.99,7039.14
+12/7/2024,Headphones,Electronics,7,55.77,17.98,408.37
+12/3/2024,Dress,Clothing,10,495,21.41,4971.41
+12/21/2024,Vacuum Cleaner,Home & Kitchen,10,118.27,31.32,1214.02
+12/6/2024,Fantasy,Books,15,469.39,48.69,7089.54
+12/31/2024,Mascara,Beauty,16,444.45,32.54,7143.74
+12/1/2024,Mascara,Beauty,10,85.52,26.71,881.91
+12/23/2024,Biography,Books,8,120.8,3.99,970.39
+12/18/2024,Headphones,Electronics,17,416.11,48.14,7122.01
+12/25/2024,Tablet,Electronics,17,76.09,6.65,1300.18
+12/10/2024,Non-Fiction,Books,6,395.96,10.27,2386.03
+12/15/2024,Foundation,Beauty,2,497.46,7.19,1002.11
+12/18/2024,Cookware,Home & Kitchen,11,147,41.28,1658.28
+12/15/2024,Smartphone,Electronics,15,152.99,42.52,2337.37
+12/27/2024,Jacket,Clothing,20,458.51,37.27,9207.47
+12/11/2024,Mixer,Home & Kitchen,8,80.97,30.25,678.01
+12/19/2024,Headphones,Electronics,5,492.21,38.92,2499.97
+12/3/2024,Jeans,Clothing,11,248.92,49.93,2788.05
+12/27/2024,Vacuum Cleaner,Home & Kitchen,2,98.77,37.22,234.76
+12/24/2024,Non-Fiction,Books,10,172.04,5.72,1726.12
+12/19/2024,Jacket,Clothing,14,112.12,44.61,1614.29
+12/15/2024,Mascara,Beauty,10,273.87,4.23,2742.93
+12/14/2024,Laptop,Electronics,1,451.59,5.01,456.6
+12/18/2024,Smartphone,Electronics,12,152.1,40.55,1865.75
+12/27/2024,Lipstick,Beauty,6,479.33,11.87,2887.85
+12/24/2024,Fantasy,Books,3,24.84,34.59,109.11
+12/10/2024,Jeans,Clothing,13,401.22,5.03,5220.89
+12/31/2024,Headphones,Electronics,14,241.43,7.15,3387.17
+12/27/2024,Fantasy,Books,18,205.09,11.93,3703.55
+12/18/2024,Mascara,Beauty,12,340.75,15.05,4104.05
+12/11/2024,T-Shirt,Clothing,9,430.16,42.01,3913.45
+12/5/2024,Mascara,Beauty,15,183.88,9.91,2768.11
+12/21/2024,Perfume,Beauty,16,273.98,4.46,4388.14
+12/24/2024,Non-Fiction,Books,13,379.71,12.01,4948.24
+12/26/2024,Dress,Clothing,16,236.83,18.73,3808.01
+12/20/2024,Tablet,Electronics,14,262.32,30.79,3703.27
+12/14/2024,Biography,Books,19,245.58,37.49,4703.51
+12/21/2024,Foundation,Beauty,14,450.98,10.2,6323.92
+12/14/2024,T-Shirt,Clothing,6,80.89,31.51,516.85
+12/31/2024,Fantasy,Books,17,322.43,31.33,5512.64
+12/8/2024,T-Shirt,Clothing,19,395.59,14.44,7530.65
+12/1/2024,Tablet,Electronics,2,169.08,22.15,360.31
+12/16/2024,T-Shirt,Clothing,15,183.88,36.45,2794.65
+12/3/2024,Foundation,Beauty,6,354.24,3.09,2128.53
+12/2/2024,Fiction,Books,2,353.21,20.36,726.78
+12/26/2024,Lipstick,Beauty,11,490.61,40.28,5436.99
+12/19/2024,Smartphone,Electronics,9,40.7,16.31,382.61
+12/23/2024,Cookware,Home & Kitchen,1,334.78,26.99,361.77
+12/20/2024,Cookware,Home & Kitchen,16,442.81,41.79,7126.75
+12/8/2024,Dress,Clothing,11,262.78,4.24,2894.82
+12/7/2024,Foundation,Beauty,15,77.71,43.19,1208.84
+12/16/2024,Perfume,Beauty,20,479.22,49.38,9633.78
+12/28/2024,Toaster,Home & Kitchen,19,49.95,17.48,966.53
+12/11/2024,Fantasy,Books,17,246.69,36.21,4229.94
+12/24/2024,Cookware,Home & Kitchen,2,420.04,13.43,853.51
+12/21/2024,Tablet,Electronics,9,254.25,29.72,2317.97
+12/23/2024,Lipstick,Beauty,7,71.11,21.2,518.97
+12/8/2024,Smartphone,Electronics,10,91.99,24.41,944.31
+12/28/2024,Mixer,Home & Kitchen,4,481.9,11.72,1939.32
+12/23/2024,Lipstick,Beauty,3,178.47,38.1,573.51
+12/4/2024,Fiction,Books,10,270.88,22.59,2731.39
+12/7/2024,Vacuum Cleaner,Home & Kitchen,10,179.58,39.66,1835.46
+12/23/2024,Biography,Books,17,246.99,39.36,4238.19
+12/28/2024,Fiction,Books,12,182.45,20.11,2209.51
+12/10/2024,Toaster,Home & Kitchen,15,252.98,32.87,3827.57
+12/4/2024,Vacuum Cleaner,Home & Kitchen,2,266.6,10.18,543.38
+12/23/2024,Perfume,Beauty,9,168.26,49.18,1563.52
+12/25/2024,Biography,Books,11,88.11,35.84,1005.05
+12/23/2024,Non-Fiction,Books,3,295.24,40.3,926.02
+12/30/2024,Fiction,Books,4,37.52,19,169.08
+12/31/2024,Foundation,Beauty,16,54.66,8.75,883.31
+12/19/2024,Mixer,Home & Kitchen,15,411.68,20.48,6195.68
+12/8/2024,Mascara,Beauty,2,214.38,46.4,475.16
+12/12/2024,Foundation,Beauty,15,453.53,49.57,6852.52
+12/24/2024,Non-Fiction,Books,17,28.43,16.15,499.46
+12/22/2024,Dress,Clothing,9,455.13,24.14,4120.31
+12/22/2024,Smartphone,Electronics,10,84.34,26.63,870.03
+12/13/2024,Biography,Books,11,332.95,16.69,3679.14
+12/29/2024,Mixer,Home & Kitchen,4,408.49,41.04,1675
+12/27/2024,Non-Fiction,Books,2,79.12,37.57,195.81
+12/16/2024,Jeans,Clothing,6,394.69,38.55,2406.69
+12/15/2024,Smartphone,Electronics,2,256.74,42.79,556.27
+12/30/2024,Cookware,Home & Kitchen,10,114.05,49.88,1190.38
+12/13/2024,Jacket,Clothing,1,226.2,17.01,243.21
+12/3/2024,Non-Fiction,Books,8,465.28,27.15,3749.39
+12/5/2024,Jacket,Clothing,20,105.38,37.14,2144.74
+12/28/2024,Fantasy,Books,8,318.95,34.36,2585.96
+12/8/2024,Foundation,Beauty,5,298.11,30.46,1521.01
+12/2/2024,Laptop,Electronics,6,200.2,49.77,1250.97
+12/14/2024,Fantasy,Books,15,398.4,3.84,5979.84
+12/16/2024,Jeans,Clothing,5,268.16,7.51,1348.31
+12/1/2024,T-Shirt,Clothing,4,403.89,25.96,1641.52
+12/21/2024,Tablet,Electronics,20,364.62,34.87,7327.27
+12/21/2024,Mascara,Beauty,6,377.36,41.09,2305.25
+12/12/2024,Foundation,Beauty,8,143.27,24.83,1170.99
+12/19/2024,Biography,Books,2,258.3,3.67,520.27
+12/2/2024,Dress,Clothing,4,395.79,26.81,1609.97
+12/2/2024,Headphones,Electronics,6,380.77,39.62,2324.24
+12/20/2024,Vacuum Cleaner,Home & Kitchen,9,229.79,19.05,2087.16
+12/2/2024,Foundation,Beauty,9,291.39,6.21,2628.72
+12/4/2024,Jeans,Clothing,2,102.21,31.16,235.58
+12/6/2024,Lipstick,Beauty,2,279.34,15.84,574.52
+12/11/2024,Jeans,Clothing,18,42.92,37.18,809.74
+12/2/2024,Jacket,Clothing,12,222.41,3.97,2672.89
+12/4/2024,Cookware,Home & Kitchen,13,220.93,24.4,2896.49
+12/28/2024,Biography,Books,1,354.84,18.08,372.92
+12/14/2024,Cookware,Home & Kitchen,3,189.9,16.72,586.42
+12/28/2024,Headphones,Electronics,18,416.83,38.07,7541.01
+12/5/2024,Headphones,Electronics,1,77.18,11.17,88.35
+12/22/2024,Jeans,Clothing,12,285.16,32.86,3454.78
+12/13/2024,Mascara,Beauty,7,225.44,2.51,1580.59
+12/3/2024,Mixer,Home & Kitchen,10,248.46,38.14,2522.74
+12/28/2024,Fantasy,Books,1,127.59,13.14,140.73
+12/21/2024,Dress,Clothing,15,96.21,12.42,1455.57
+12/23/2024,Fantasy,Books,6,267.58,26.93,1632.41
+12/4/2024,Tablet,Electronics,12,404.71,19.37,4875.89
+12/7/2024,Mascara,Beauty,3,435.96,22.95,1330.83
+12/1/2024,Perfume,Beauty,4,166.72,39.09,705.97
+12/9/2024,Smartphone,Electronics,3,482.8,46.79,1495.19
+12/26/2024,Headphones,Electronics,20,284.58,9.36,5700.96
+12/30/2024,Tablet,Electronics,5,365.3,46.79,1873.29
+12/3/2024,Tablet,Electronics,20,382.41,24.28,7672.48
+12/30/2024,Fantasy,Books,3,38.26,33.68,148.46
